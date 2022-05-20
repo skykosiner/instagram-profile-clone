@@ -10,12 +10,12 @@ function Hero() {
                 </div>
             </div>
             <div style={{ marginLeft: "1rem" }}>
-                <div style={{ marginLeft: "8rem", position: "absolute", top: "15%" }}>
+            <div style={{ marginLeft: "8rem", position: "absolute", top: "22%" }}>
                     <p>69 posts 69 followers 69 following</p>
                 </div>
-                <div>
-                    <p>📷 Taking pictrues</p>
-                    <a style={{ fontWeight: "bold" }} href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target=" _blank">deffintaly-a-website.com</a>
+                <div style={{ marginTop: "-2rem"}}>
+                    <p style={{ marginBottom: ".2rem" }}>📷 Taking pictrues</p>
+                    <a style={{ fontWeight: "bold", color: "rgb(182, 224, 255)", textDecoration: "none" }} href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target=" _blank">deffintaly-a-website.com</a>
                 </div>
             </div>
         </div>

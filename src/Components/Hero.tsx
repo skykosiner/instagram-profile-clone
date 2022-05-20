@@ -14,8 +14,8 @@ function Hero() {
                     <p>69 posts 69 followers 69 following</p>
                 </div>
                 <div style={{ marginTop: "-2rem"}}>
-                    <p style={{ marginBottom: ".2rem" }}>📷 Taking pictrues</p>
-                    <a style={{ fontWeight: "bold", color: "rgb(182, 224, 255)", textDecoration: "none" }} href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target=" _blank">deffintaly-a-website.com</a>
+                    <p style={{ marginBottom: ".2rem" }}>📷 Taking pictures</p>
+                    <a style={{ fontWeight: "bold", color: "rgb(182, 224, 255)", textDecoration: "none" }} href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target=" _blank">definitely-a-website.com</a>
                 </div>
             </div>
         </div>

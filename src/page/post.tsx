@@ -11,7 +11,7 @@ function Post() {
                 if (i.id === id.id) {
                     return (
                         <div>
-                            <img src={require(`../image-me-daddy/${i.imageName}`)} />
+                            <img style={{ objectFit: "cover", height: "1000px", width: "900px" }} src={require(`../image-me-daddy/${i.imageName}`)} />
                             <p>{i.caption}</p>
                         </div>
                     )

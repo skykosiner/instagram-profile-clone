@@ -11,7 +11,7 @@ function Hero() {
             </div>
             <div style={{ marginLeft: "1rem" }}>
             <div style={{ marginLeft: "8rem", marginTop: "-4rem", paddingTop: "0rem" }}>
-                    <p>69 posts 69 followers 69 following</p>
+                    <p>9 posts 69 followers 69 following</p>
                 </div>
                 <div style={{ marginTop: "2rem"}}>
                     <p style={{ marginBottom: ".2rem" }}>📷 Taking pictures</p>

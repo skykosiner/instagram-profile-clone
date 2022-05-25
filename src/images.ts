@@ -7,39 +7,58 @@ export interface image {
 
 export const images: image[] = [
     {
-        "imageName": "alex-with-kinesis.png",
-        "caption": "Alex jones 👀",
+        "imageName": "Photoshoot-final-photo-5.jpg",
+        "caption": "Super up close on orange flower",
         "id": "1",
-        "alt": "React logo",
+        "alt": "Super up close on orange flower"
     },
     {
-        "imageName": "Code-running.png",
-        "caption": "your code does not work 😔",
+        "imageName": "Photoshoot-final-photo-2.jpg",
+        "caption": "Upclose of tree branch",
         "id": "2",
-        "alt": "React logo"
+        "alt": "Upclose of tree branch"
     },
     {
-        "imageName": "discord_token.jpeg",
-        "caption": "I have your discord token hee hee haw",
+        "imageName": "Photoshoot-final-photo-3.jpg",
+        "caption": "Blowing on nature",
         "id": "3",
-        "alt": "React logo"
+        "alt": "Blowing on nature"
     },
     {
-        "imageName": "New-keyboard.png",
-        "caption": "Ari getting a new keyboard",
+        "imageName": "Photoshoot-final-photo-4.jpg",
+        "caption": "Up close on yellow flower",
         "id": "4",
-        "alt": "React logo"
+        "alt": "Up close on yellow flower"
     },
     {
-        "imageName": "No-Linux.jpg",
-        "caption": "BTW I use arch",
+        "imageName": "Photoshoot-final-photo-1.jpg",
+        "caption": "Landscope photo",
         "id": "5",
-        "alt": "React logo"
+        "alt": "Landscape photo",
     },
     {
-        "imageName": "RUST-OR-BUST-BABBY.png",
-        "caption": "Netflix better have this once they switch to rust",
+        "imageName": "Photoshoot-final-photo-6.jpg",
+        "caption": "Up close on purple flower",
         "id": "6",
-        "alt": "React logo"
+        "alt": "Up close on purple flower"
+    },
+    {
+        "imageName": "IMG_4704.jpg",
+        "caption": "Close up on lilac flower",
+        "id": "7",
+        "alt": "Close up on lilac flower"
+    },
+    {
+        "imageName": "IMG_4697.jpg",
+        "caption": "Orange flower down the middle",
+        "id": "8",
+        "alt": "Orange flower down the middle"
+    },
+    {
+        "imageName": "IMG_4706.jpg",
+        "caption": "A bush of lilac flowers",
+        "id": "9",
+        "alt": "A bush of lilac flowers"
     },
 ]
+

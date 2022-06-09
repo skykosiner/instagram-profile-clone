@@ -13,10 +13,10 @@ export const images: image[] = [
         "alt": "Upclose of tree branch"
     },
     {
-        "imageName": "Photoshoot-final-photo-5.jpg",
-        "caption": "Super up close on orange flower",
+        "imageName": "IMG_4697.jpg",
+        "caption": "Orange flower down the middle",
         "id": "2",
-        "alt": "Super up close on orange flower"
+        "alt": "Orange flower down the middle"
     },
     {
         "imageName": "Photoshoot-final-photo-3.jpg",
@@ -49,10 +49,10 @@ export const images: image[] = [
         "alt": "Close up on lilac flower"
     },
     {
-        "imageName": "IMG_4697.jpg",
-        "caption": "Orange flower down the middle",
+        "imageName": "Photoshoot-final-photo-5.jpg",
+        "caption": "Super up close on orange flower",
         "id": "8",
-        "alt": "Orange flower down the middle"
+        "alt": "Super up close on orange flower"
     },
     {
         "imageName": "IMG_4706.jpg",

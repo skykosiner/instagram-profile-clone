@@ -7,16 +7,16 @@ export interface image {
 
 export const images: image[] = [
     {
-        "imageName": "Photoshoot-final-photo-5.jpg",
-        "caption": "Super up close on orange flower",
-        "id": "1",
-        "alt": "Super up close on orange flower"
-    },
-    {
         "imageName": "Photoshoot-final-photo-2.jpg",
         "caption": "Upclose of tree branch",
-        "id": "2",
+        "id": "1",
         "alt": "Upclose of tree branch"
+    },
+    {
+        "imageName": "Photoshoot-final-photo-5.jpg",
+        "caption": "Super up close on orange flower",
+        "id": "2",
+        "alt": "Super up close on orange flower"
     },
     {
         "imageName": "Photoshoot-final-photo-3.jpg",

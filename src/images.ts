@@ -7,22 +7,22 @@ export interface image {
 
 export const images: image[] = [
     {
-        "imageName": "Photoshoot-final-photo-2.jpg",
-        "caption": "Upclose of tree branch",
-        "id": "1",
-        "alt": "Upclose of tree branch"
-    },
-    {
         "imageName": "IMG_4697.jpg",
         "caption": "Orange flower down the middle",
-        "id": "2",
+        "id": "1",
         "alt": "Orange flower down the middle"
     },
     {
         "imageName": "Photoshoot-final-photo-3.jpg",
         "caption": "Blowing on nature",
-        "id": "3",
+        "id": "2",
         "alt": "Blowing on nature"
+    },
+    {
+        "imageName": "Photoshoot-final-photo-2.jpg",
+        "caption": "Upclose of tree branch",
+        "id": "3",
+        "alt": "Upclose of tree branch"
     },
     {
         "imageName": "Photoshoot-final-photo-4.jpg",
@@ -61,4 +61,3 @@ export const images: image[] = [
         "alt": "A bush of lilac flowers"
     },
 ]
-
